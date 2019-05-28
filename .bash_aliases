@@ -1,3 +1,3 @@
 # Aliases
 alias la='ls -la'
-alias rm='rm -r'
+alias rm='rm -rI' #Security alias!
